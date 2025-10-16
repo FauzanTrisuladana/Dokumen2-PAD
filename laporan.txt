@@ -1,0 +1,67 @@
+# Laporan UTS
+
+## Penjelasan Use Case Diagram
+
+### Subsystem: Manajerial
+Subsystem ini berfokus pada pengelolaan mata kuliah, akun, kelas, dan jadwal. Aktor utama yang terlibat adalah Admin dan Manager. Berikut adalah penjelasan rinci:
+
+1. **Manajemen Mata Kuliah**
+   - Admin memiliki tanggung jawab untuk memeriksa ketersediaan kode mata kuliah baru sebelum menambahkannya ke sistem. Hal ini dilakukan untuk memastikan bahwa kode mata kuliah tidak duplikat dan sesuai dengan standar akademik.
+   - Setelah kode mata kuliah tersedia, Admin dapat menambah mata kuliah baru ke dalam sistem. Proses ini melibatkan pengisian informasi seperti nama mata kuliah, deskripsi, jumlah SKS, dan prasyarat.
+   - Admin juga memiliki kemampuan untuk mengedit mata kuliah yang sudah ada. Misalnya, jika ada perubahan dalam deskripsi atau jumlah SKS, Admin dapat memperbarui informasi tersebut.
+   - Jika mata kuliah tidak lagi relevan atau diperlukan, Admin dapat menghapusnya dari sistem. Proses ini dilakukan dengan hati-hati untuk menghindari dampak pada mahasiswa yang sudah terdaftar.
+
+2. **Manajemen Akun**
+   - Admin bertanggung jawab untuk menambah akun bagi Manager, Dosen, dan Mahasiswa. Proses ini melibatkan pengisian informasi seperti nama, email, dan peran pengguna.
+   - Sebelum membuat akun baru, Admin harus memeriksa ketersediaan email untuk memastikan bahwa email tersebut belum digunakan oleh pengguna lain.
+   - Setelah akun dibuat, Admin dapat memberikan password sementara kepada pengguna. Password ini dapat diubah oleh pengguna setelah login pertama kali.
+   - Fitur ini membantu memastikan bahwa setiap pengguna memiliki akses yang unik dan aman ke sistem.
+
+3. **Manajemen Kelas**
+   - Manager memiliki peran penting dalam mengelola kelas. Mereka dapat menambahkan kelas baru dengan menentukan nama kelas, mata kuliah yang diajarkan, dan dosen yang bertanggung jawab.
+   - Manager juga dapat mengedit informasi kelas, seperti jadwal atau lokasi kelas. Hal ini dilakukan untuk memastikan bahwa kelas berjalan sesuai rencana.
+   - Jika kelas tidak lagi diperlukan, Manager dapat menghapusnya dari sistem. Proses ini melibatkan konfirmasi untuk menghindari penghapusan yang tidak disengaja.
+   - Selain itu, Manager dapat mengatur jadwal kelas dengan memilih tanggal mulai dan selesai. Fitur ini membantu memastikan bahwa jadwal kelas tidak bertabrakan dengan jadwal lainnya.
+   - Manager juga bertanggung jawab untuk menugaskan dosen dan mahasiswa ke kelas tertentu. Proses ini melibatkan pemilihan dosen yang sesuai dan pendaftaran mahasiswa ke kelas.
+
+### Subsystem: Login & User Manajemen
+Subsystem ini mencakup fungsionalitas yang berhubungan dengan autentikasi dan pengelolaan pengguna. Semua aktor (Admin, Manager, Mahasiswa, Dosen) terlibat dalam subsystem ini. Berikut adalah penjelasan rinci:
+
+1. **Login dan Autentikasi**
+   - Setiap pengguna harus melalui proses autentikasi untuk mengakses sistem. Proses ini melibatkan pengisian username dan password.
+   - Sistem akan memverifikasi informasi yang diberikan oleh pengguna. Jika informasi tersebut valid, pengguna akan diberikan akses ke sistem.
+   - Proses autentikasi ini dirancang untuk memastikan bahwa hanya pengguna yang sah yang dapat masuk ke sistem.
+
+2. **Pengelolaan Profil**
+   - Pengguna dapat mengedit profil mereka untuk memperbarui informasi pribadi. Misalnya, mereka dapat mengubah nama, email, atau nomor telepon.
+   - Fitur ini memberikan fleksibilitas kepada pengguna untuk menjaga data mereka tetap akurat dan terkini.
+   - Selain itu, pengguna dapat mengunggah foto profil untuk mempersonalisasi akun mereka.
+
+3. **Ganti Password dan Logout**
+   - Pengguna dapat mengganti password mereka untuk meningkatkan keamanan akun. Proses ini melibatkan pengisian password lama dan password baru.
+   - Logout memungkinkan pengguna untuk keluar dari sistem dengan aman. Fitur ini dirancang untuk melindungi akun pengguna dari akses yang tidak sah.
+
+### Subsystem: Sistem Informasi
+Subsystem ini berfokus pada penyediaan informasi kepada Mahasiswa dan Dosen. Berikut adalah penjelasan rinci:
+
+1. **Presensi**
+   - Mahasiswa dapat melihat jadwal mingguan dan harian mereka. Fitur ini membantu mereka untuk memantau aktivitas akademik mereka.
+   - Mahasiswa juga dapat membuat room presensi manual. Proses ini melibatkan pengisian informasi seperti nama room dan waktu presensi.
+   - Selain itu, Mahasiswa dapat menggunakan presensi QR untuk mencatat kehadiran mereka. Proses ini dirancang untuk meningkatkan efisiensi dan akurasi.
+   - Dosen memiliki kemampuan untuk menambahkan kehadiran mahasiswa secara manual. Misalnya, jika ada mahasiswa yang lupa mencatat kehadiran, Dosen dapat memperbarui informasi tersebut.
+
+2. **Manajemen Nilai**
+   - Dosen dapat memasukkan nilai untuk setiap mahasiswa di kelas. Proses ini melibatkan pengisian informasi seperti nama mahasiswa, mata kuliah, dan nilai.
+   - Jika ada kesalahan dalam penilaian, Dosen dapat mengedit nilai untuk memastikan bahwa informasi tersebut akurat.
+   - Fitur ini membantu memastikan bahwa penilaian dilakukan secara transparan dan adil.
+
+3. **Komunikasi**
+   - Mahasiswa dan Dosen dapat mengirim pesan melalui sistem. Fitur ini dirancang untuk meningkatkan komunikasi antara pengguna.
+   - Selain itu, pengguna dapat bergabung dalam room chat untuk diskusi kelompok atau individu. Proses ini melibatkan pemilihan room dan pengisian informasi seperti nama room dan anggota.
+
+4. **Pengumuman dan Dashboard**
+   - Dosen dapat membuat pengumuman untuk kelas mereka. Proses ini melibatkan pengisian informasi seperti judul pengumuman, deskripsi, dan waktu.
+   - Mahasiswa dapat melihat pengumuman dan dashboard untuk memantau aktivitas akademik mereka. Fitur ini dirancang untuk memberikan informasi yang relevan dan terkini kepada pengguna.
+
+### Kesimpulan
+Use case diagram yang dilampirkan mencakup berbagai fungsionalitas penting dalam sistem. Setiap subsystem dirancang untuk memenuhi kebutuhan spesifik pengguna, mulai dari pengelolaan mata kuliah hingga komunikasi dan manajemen nilai. Dengan implementasi yang tepat, sistem ini dapat meningkatkan efisiensi dan efektivitas dalam pengelolaan akademik.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.9)  16 OCT 2025 18:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.9)  16 OCT 2025 20:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -651,7 +651,7 @@ Package hyperref Info: Link coloring ON on input line 68.
 \openout4 = `main.out'.
 
 \c@lstlisting=\count445
-<lambang ugm.png, id=47, 1606.0pt x 1606.0pt>
+<lambang ugm.png, id=59, 1606.0pt x 1606.0pt>
 File: lambang ugm.png Graphic file (type png)
 <use lambang ugm.png>
 Package pdftex.def Info: lambang ugm.png  used on input line 80.
@@ -691,10 +691,68 @@ Chapter 1.
 [3
 
 ]
-Chapter 2.
+<USECASE/usecasemanajer.jpg, id=104, 504.9264pt x 785.8158pt>
+File: USECASE/usecasemanajer.jpg Graphic file (type jpg)
+<use USECASE/usecasemanajer.jpg>
+Package pdftex.def Info: USECASE/usecasemanajer.jpg  used on input line 161.
+(pdftex.def)             Requested size: 364.19667pt x 566.81815pt.
 
 
 [4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.169 
+       <./USECASE/usecasemanajer.jpg>]
+
+[5]
+<USECASE/usecaselogin.jpg, id=125, 335.0919pt x 457.71pt>
+File: USECASE/usecaselogin.jpg Graphic file (type jpg)
+<use USECASE/usecaselogin.jpg>
+Package pdftex.def Info: USECASE/usecaselogin.jpg  used on input line 214.
+(pdftex.def)             Requested size: 364.19667pt x 497.5042pt.
+
+
+[6]
+
+[7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.227   \item \textbf
+                     {Manager}: Mengelola akun dosen dan mahasiswa, serta da... <./USECASE/usecaselogin.jpg>]
+
+[8]
+<USECASE/usecaseSistemInformasi.jpg, id=158, 501.072pt x 788.9475pt>
+File: USECASE/usecaseSistemInformasi.jpg Graphic file (type jpg)
+<use USECASE/usecaseSistemInformasi.jpg>
+Package pdftex.def Info: USECASE/usecaseSistemInformasi.jpg  used on input line 267.
+(pdftex.def)             Requested size: 364.19667pt x 573.43494pt.
+
+
+[9]
+
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.275 
+       <./USECASE/usecaseSistemInformasi.jpg>]
+Overfull \hbox (2.41457pt too wide) in paragraph at lines 297--298
+[]\T1/cmr/m/n/10.95 Pada di-a-gram use case, ter-da-pat re-lasi <<in-clude>> dan <<ex-tend>> yang menggam-barkan keterkai-
+ []
+
+
+
+[11]
+
+[12]
+
+[13]
+Chapter 2.
+
+
+[14
 
 ] (main.aux)
  ***********
@@ -702,23 +760,23 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 13911628638F5A758407F55E3E4753CC;1008.
+(rerunfilecheck)             Checksum: 0DBF87D0E50A5931C25EF21F2E833496;1635.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19735 strings out of 469941
- 343692 string characters out of 5469915
- 1306099 words of memory out of 5000000
- 46304 multiletter control sequences out of 15000+600000
- 636518 words of font info for 58 fonts, out of 8000000 for 9000
+ 19864 strings out of 469941
+ 346078 string characters out of 5469915
+ 1312258 words of memory out of 5000000
+ 46365 multiletter control sequences out of 15000+600000
+ 637635 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,5n,70p,727b,807s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk>
-Output written on main.pdf (5 pages, 2933048 bytes).
+ 63i,12n,70p,729b,807s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk>
+Output written on main.pdf (15 pages, 4545826 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 504 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
