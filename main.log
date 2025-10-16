@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.9)  16 OCT 2025 20:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.9)  16 OCT 2025 22:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -651,7 +651,7 @@ Package hyperref Info: Link coloring ON on input line 68.
 \openout4 = `main.out'.
 
 \c@lstlisting=\count445
-<lambang ugm.png, id=59, 1606.0pt x 1606.0pt>
+<lambang ugm.png, id=103, 1606.0pt x 1606.0pt>
 File: lambang ugm.png Graphic file (type png)
 <use lambang ugm.png>
 Package pdftex.def Info: lambang ugm.png  used on input line 80.
@@ -691,7 +691,7 @@ Chapter 1.
 [3
 
 ]
-<USECASE/usecasemanajer.jpg, id=104, 504.9264pt x 785.8158pt>
+<USECASE/usecasemanajer.jpg, id=185, 504.9264pt x 785.8158pt>
 File: USECASE/usecasemanajer.jpg Graphic file (type jpg)
 <use USECASE/usecasemanajer.jpg>
 Package pdftex.def Info: USECASE/usecasemanajer.jpg  used on input line 161.
@@ -706,7 +706,7 @@ l.169
        <./USECASE/usecasemanajer.jpg>]
 
 [5]
-<USECASE/usecaselogin.jpg, id=125, 335.0919pt x 457.71pt>
+<USECASE/usecaselogin.jpg, id=206, 335.0919pt x 457.71pt>
 File: USECASE/usecaselogin.jpg Graphic file (type jpg)
 <use USECASE/usecaselogin.jpg>
 Package pdftex.def Info: USECASE/usecaselogin.jpg  used on input line 214.
@@ -723,7 +723,7 @@ l.227   \item \textbf
                      {Manager}: Mengelola akun dosen dan mahasiswa, serta da... <./USECASE/usecaselogin.jpg>]
 
 [8]
-<USECASE/usecaseSistemInformasi.jpg, id=158, 501.072pt x 788.9475pt>
+<USECASE/usecaseSistemInformasi.jpg, id=239, 501.072pt x 788.9475pt>
 File: USECASE/usecaseSistemInformasi.jpg Graphic file (type jpg)
 <use USECASE/usecaseSistemInformasi.jpg>
 Package pdftex.def Info: USECASE/usecaseSistemInformasi.jpg  used on input line 267.
@@ -745,14 +745,215 @@ Overfull \hbox (2.41457pt too wide) in paragraph at lines 297--298
 
 
 [11]
+<Activity Diagram/Chat.jpg, id=270, 459.6372pt x 778.5888pt>
+File: Activity Diagram/Chat.jpg Graphic file (type jpg)
+<use Activity Diagram/Chat.jpg>
+Package pdftex.def Info: Activity Diagram/Chat.jpg  used on input line 324.
+(pdftex.def)             Requested size: 364.19667pt x 616.93175pt.
+
 
 [12]
 
-[13]
+[13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.331 
+       <./Activity Diagram/Chat.jpg>]
+<Activity Diagram/Dosen.jpg, id=290, 416.2752pt x 602.7318pt>
+File: Activity Diagram/Dosen.jpg Graphic file (type jpg)
+<use Activity Diagram/Dosen.jpg>
+Package pdftex.def Info: Activity Diagram/Dosen.jpg  used on input line 349.
+(pdftex.def)             Requested size: 364.19667pt x 527.35223pt.
+
+
+[14]
+
+[15
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.358 
+       <./Activity Diagram/Dosen.jpg>]
+<Activity Diagram/Kelas.jpg, id=305, 466.3824pt x 775.2162pt>
+File: Activity Diagram/Kelas.jpg Graphic file (type jpg)
+<use Activity Diagram/Kelas.jpg>
+Package pdftex.def Info: Activity Diagram/Kelas.jpg  used on input line 373.
+(pdftex.def)             Requested size: 364.19667pt x 605.3641pt.
+
+
+[16]
+
+[17
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.380 
+       <./Activity Diagram/Kelas.jpg>]
+<Activity Diagram/Login.jpg, id=317, 422.5386pt x 599.841pt>
+File: Activity Diagram/Login.jpg Graphic file (type jpg)
+<use Activity Diagram/Login.jpg>
+Package pdftex.def Info: Activity Diagram/Login.jpg  used on input line 397.
+(pdftex.def)             Requested size: 364.19667pt x 517.02475pt.
+
+
+[18]
+
+[19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.406 
+       <./Activity Diagram/Login.jpg>]
+<Activity Diagram/Mata kuliah.jpg, id=332, 466.3824pt x 684.156pt>
+File: Activity Diagram/Mata kuliah.jpg Graphic file (type jpg)
+<use Activity Diagram/Mata kuliah.jpg>
+Package pdftex.def Info: Activity Diagram/Mata kuliah.jpg  used on input line 417.
+(pdftex.def)             Requested size: 364.19667pt x 534.25546pt.
+
+
+[20]
+
+[21
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.425 
+       <./Activity Diagram/Mata kuliah.jpg>]
+<Activity Diagram/Mahasiswa Baru.jpg, id=345, 424.4658pt x 611.886pt>
+File: Activity Diagram/Mahasiswa Baru.jpg Graphic file (type jpg)
+<use Activity Diagram/Mahasiswa Baru.jpg>
+Package pdftex.def Info: Activity Diagram/Mahasiswa Baru.jpg  used on input line 439.
+(pdftex.def)             Requested size: 364.19667pt x 525.03528pt.
+
+
+[22]
+
+[23
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.447 
+       <./Activity Diagram/Mahasiswa Baru.jpg>]
+<Activity Diagram/Nilai Akhir.jpg, id=358, 420.1296pt x 611.886pt>
+File: Activity Diagram/Nilai Akhir.jpg Graphic file (type jpg)
+<use Activity Diagram/Nilai Akhir.jpg>
+Package pdftex.def Info: Activity Diagram/Nilai Akhir.jpg  used on input line 461.
+(pdftex.def)             Requested size: 364.19667pt x 530.4225pt.
+
+
+[24]
+
+[25
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.469 
+       <./Activity Diagram/Nilai Akhir.jpg>]
+<Activity Diagram/Pengumuman.jpg, id=372, 463.9734pt x 739.563pt>
+File: Activity Diagram/Pengumuman.jpg Graphic file (type jpg)
+<use Activity Diagram/Pengumuman.jpg>
+Package pdftex.def Info: Activity Diagram/Pengumuman.jpg  used on input line 484.
+(pdftex.def)             Requested size: 364.19667pt x 580.52438pt.
+
+
+[26]
+
+[27
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.490 
+       <./Activity Diagram/Pengumuman.jpg>]
+Overfull \hbox (13.98471pt too wide) in paragraph at lines 499--500
+[]\T1/cmr/m/n/10.95 Secara ke-selu-ruhan, Ac-tiv-ity Di-a-gram Pengu-mu-man pada Gam-bar [][]1.11[][] me-nun-jukkan bagaimana
+ []
+
+<Activity Diagram/Presensi.jpg, id=385, 418.2024pt x 608.0316pt>
+File: Activity Diagram/Presensi.jpg Graphic file (type jpg)
+<use Activity Diagram/Presensi.jpg>
+Package pdftex.def Info: Activity Diagram/Presensi.jpg  used on input line 505.
+(pdftex.def)             Requested size: 364.19667pt x 529.52135pt.
+
+
+[28]
+
+[29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.513 
+       <./Activity Diagram/Presensi.jpg>]
+<Activity Diagram/Scan Presensi.jpg, id=398, 447.5922pt x 636.4578pt>
+File: Activity Diagram/Scan Presensi.jpg Graphic file (type jpg)
+<use Activity Diagram/Scan Presensi.jpg>
+Package pdftex.def Info: Activity Diagram/Scan Presensi.jpg  used on input line 528.
+(pdftex.def)             Requested size: 364.19667pt x 517.89761pt.
+
+
+[30]
+
+[31
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.537 
+       <./Activity Diagram/Scan Presensi.jpg>]
+<Activity Diagram/Tambah akun manajer.jpg, id=412, 419.166pt x 609.9588pt>
+File: Activity Diagram/Tambah akun manajer.jpg Graphic file (type jpg)
+<use Activity Diagram/Tambah akun manajer.jpg>
+Package pdftex.def Info: Activity Diagram/Tambah akun manajer.jpg  used on input line 552.
+(pdftex.def)             Requested size: 364.19667pt x 529.97115pt.
+
+
+[32]
+
+[33
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.561 
+       <./Activity Diagram/Tambah akun manajer.jpg>]
+<Activity Diagram/User Manajemen.jpg, id=425, 471.2004pt x 692.8284pt>
+File: Activity Diagram/User Manajemen.jpg Graphic file (type jpg)
+<use Activity Diagram/User Manajemen.jpg>
+Package pdftex.def Info: Activity Diagram/User Manajemen.jpg  used on input line 574.
+(pdftex.def)             Requested size: 364.19667pt x 535.4987pt.
+
+
+[34]
+
+[35
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.583 
+       <./Activity Diagram/User Manajemen.jpg>]
+<ERD/SIAKampus-ERD.jpg, id=438, 2278.5125pt x 1356.06625pt>
+File: ERD/SIAKampus-ERD.jpg Graphic file (type jpg)
+<use ERD/SIAKampus-ERD.jpg>
+Package pdftex.def Info: ERD/SIAKampus-ERD.jpg  used on input line 595.
+(pdftex.def)             Requested size: 364.19667pt x 216.74742pt.
+
+
+[36
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.603 
+       <./ERD/SIAKampus-ERD.jpg>]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
 Chapter 2.
 
 
-[14
+[41
 
 ] (main.aux)
  ***********
@@ -760,23 +961,23 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0DBF87D0E50A5931C25EF21F2E833496;1635.
+(rerunfilecheck)             Checksum: C518701EF9653B6D84ECB919DFA8AB5E;4020.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19864 strings out of 469941
- 346078 string characters out of 5469915
- 1312258 words of memory out of 5000000
- 46365 multiletter control sequences out of 15000+600000
+ 20067 strings out of 469941
+ 350965 string characters out of 5469915
+ 1312975 words of memory out of 5000000
+ 46480 multiletter control sequences out of 15000+600000
  637635 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,12n,70p,729b,807s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,12n,70p,1081b,807s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk>
-Output written on main.pdf (15 pages, 4545826 bytes).
+Output written on main.pdf (42 pages, 6187542 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 833 PDF objects out of 1000 (max. 8388607)
+ 170 named destinations out of 1000 (max. 500000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
 
